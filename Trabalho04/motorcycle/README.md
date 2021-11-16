@@ -1,22 +1,24 @@
 # Motoca infantil no parque
 
-- Iniciar
+## Requisitos
+
+- **Iniciar**
 	- A moto inicia com 1 de potência, sem minutos e sem ninguém.
 
-- Subir
+- **Subir**
 	- Só pode estar uma pessoa na moto por vez. Para subir, informe nome e idade de quem está subindo.
 
-- Descer
+- **Descer**
 	- Só pode descer se tiver alguém na moto.
 
-- Comprar tempo
+- **Comprar tempo**
 	- O tempo em minutos é comprado e, enquanto houver tempo, qualquer pessoa pode dirigir.
 
-- Dirigir tempo
+- **Dirigir tempo**
 	- Se houver uma pessoa com 10 anos ou menos e houver minutos, então ela pode passear de moto.
 	- Se o tempo acabar no meio do passeio, informe o quanto a pessoa andou.
 
-- Buzinar
+- **Buzinar**
 	- Qualquer pessoa pode buzinar(honk)
 	- O barulho da buzina é "Pem", porém o número de letras e na palavra é igual ao valor da potência.
 		- Ex: se a potência for 5, buzinar deve gerar: Peeeeem
